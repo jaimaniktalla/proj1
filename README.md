@@ -11,9 +11,9 @@ shutil
 
 Instructions to Run:
 Ensure Python 3.x is installed on your system.
-Save the file_organizer.py script on your machine.
+Save the index.py script on your machine.
 Run the Python script from the command line:
 bash
 Copy code
-python file_organizer.py
+python index.py
 Input the directory path to be organized when prompted. The script will create subfolders for each file type and move files accordingly.
