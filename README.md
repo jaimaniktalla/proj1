@@ -4,9 +4,13 @@ Description:
 The File Organizer is a Python project that helps users sort and organize files in a specified directory. It automatically moves files into subfolders based on their file extensions, simplifying file management.
 
 Requirements:
+
 Python 3.x
+
 Standard libraries:
+
 os
+
 shutil
 
 Instructions to Run:
